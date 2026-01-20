@@ -1,0 +1,1278 @@
+{
+  "document": {
+    "type": "cv",
+    "languages": ["no", "en"],
+    "source": "Arian-Garshi.pdf",
+    "person": {
+      "name": "Arian Garshi",
+      "title": {
+        "no": "Seniorkonsulent",
+        "en": "Senior Consultant"
+      }
+    }
+  },
+  "sections": {
+    "introduction": {
+      "paragraphs": [
+        {
+          "no": "Arian er seniorkonsulent med spisskompetanse innen frontend, UX design, og AI utvikling. Han har mastergrad i informasjonsvitenskap, og har i alle sine prosjekter tatt ansvar for planlegging, prioritering og kvalitet. Han jobber på tvers av stacken og leverer fra innsikt og prototyping til produksjon og drift.",
+          "en": "Arian is a senior consultant specializing in frontend, UX design, and AI development. He holds a master's degree in information science and has taken responsibility for planning, prioritization, and quality in all his projects. He works across the stack and delivers from insight and prototyping to production and operations."
+        },
+        {
+          "no": "Kjernekompetansen er React og TypeScript med dyp forståelse av CSS, og semantisk HTML. Han har også erfaring med back-end utvikling, med teknologier som Python og Node.js. Hans verk følger WCAG 2.1 anbefalinger, er responsive og inkluderer SEO optimalisering. Han bruker Selenium og Playwright for end to end testing, og React Testing library for unittesting.",
+          "en": "His core competencies are React and TypeScript with deep understanding of CSS and semantic HTML. He also has experience with back-end development using technologies like Python and Node.js. His work follows WCAG 2.1 guidelines, is responsive, and includes SEO optimization. He uses Selenium and Playwright for end-to-end testing, and React Testing Library for unit testing."
+        },
+        {
+          "no": "Erfaringen spenner fra komplekse dashboards og interaktive applikasjoner for Equinor, Google, Biodrone, til MVPs og branding for enkeltpersonsforetak og start-ups.",
+          "en": "His experience spans from complex dashboards and interactive applications for Equinor, Google, and Biodrone, to MVPs and branding for sole proprietorships and startups."
+        },
+        {
+          "no": "Nylig, har han vært opptatt av AI og LLMs. Han har designet, og utviklet AI verktøy for fakturahåndtering for lønnsavdelingen i Head Energy, hvor tidligere manuell gjennomgang av ulike betalingssertifikater ble automatisert.",
+          "en": "Recently, he has been focused on AI and LLMs. He has designed and developed AI tools for invoice handling for the payroll department at Head Energy, where previously manual review of various payment certificates was automated."
+        },
+        {
+          "no": "I sine roller hos Equinor var han lead front end utvikler og tok ansvaret fra kommunikasjon med kunden til leveranse. Han tok beslutninger for arkitektur og kodestandarder, og var ansvarlig for onboarding av nye utviklere og opplæring. Han tok initiativ til å sette opp rutiner rundt code reviews, og drev stadig med parprogrammering for å øke produktiviteten i teamet.",
+          "en": "In his roles at Equinor, he was the lead frontend developer and took responsibility from client communication to delivery. He made decisions on architecture and code standards, and was responsible for onboarding new developers and training. He initiated routines around code reviews and consistently engaged in pair programming to increase team productivity."
+        },
+        {
+          "no": "Han utforsker stadig innovative metoder og verktøy, med prosjekter som spenner fra automatisering med n8n, LLM og agenter med OpenAI og Claude API. Han har lang erfaring med ansvarlig og ryddig implementering av generativ kode med Cursor for å sikre rask samtidig robust og modulær levering av løsninger.",
+          "en": "He continuously explores innovative methods and tools, with projects spanning from automation with n8n, to LLM and agents with OpenAI and Claude API. He has extensive experience with responsible and organized implementation of generative code with Cursor to ensure fast yet robust and modular delivery of solutions."
+        },
+        {
+          "no": "Han har dessuten designet og utviklet en komplett SaaS løsning drevet av KI som hjelper produktteam med idemyldring ved bruk av et smart tankekartsystem. Han hadde all ansvar fra ide og design, til utvikling av både front end, back end og database, til leveranse, testing og implementering av betalingsløsning med Stripe.",
+          "en": "He has also designed and developed a complete AI-powered SaaS solution that helps product teams with brainstorming using a smart mind map system. He had full responsibility from idea and design, to development of both frontend, backend, and database, to delivery, testing, and implementation of payment solution with Stripe."
+        },
+        {
+          "no": "På fritiden liker Arian klatring, svømming, dykking og strandturer. Hjemme bruker han tid på praktiske og kreative prosjekter, som å eksperimentere med 3D-printing, Arduino og mikrokontrollere. Han har også en Shiba Inu som sørger for litt ekstra liv i hverdagen.",
+          "en": "In his free time, Arian enjoys climbing, swimming, diving, and beach trips. At home, he spends time on practical and creative projects, such as experimenting with 3D printing, Arduino, and microcontrollers. He also has a Shiba Inu that adds some extra life to his everyday routine."
+        }
+      ]
+    },
+    "core_competencies": [
+      {
+        "no": "5 års erfaring med React & Typescript",
+        "en": "5 years of experience with React & TypeScript"
+      },
+      {
+        "no": "5 års erfaring med UX design",
+        "en": "5 years of experience with UX design"
+      },
+      {
+        "no": "3 års erfaring med generativ AI",
+        "en": "3 years of experience with generative AI"
+      },
+      {
+        "no": "2 års erfaring med Back-end og DevOps",
+        "en": "2 years of experience with Back-end and DevOps"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Sanity Developer Certification",
+        "issuer": "Sanity",
+        "date": "11.2024",
+        "description": {
+          "no": "Verifiserer at jeg kan modellere strukturert innhold, sette opp og skreddersy Sanity Studio, bruke GROQ og Content Lake APIer, og bygge produksjonsklare headless CMS løsninger.",
+          "en": "Verifies that I can model structured content, set up and customize Sanity Studio, use GROQ and Content Lake APIs, and build production-ready headless CMS solutions."
+        }
+      },
+      {
+        "name": "AI-900: Microsoft Certified Azure AI Fundamentals",
+        "issuer": "Microsoft",
+        "date": "03.2024",
+        "description": {
+          "no": "Dokumenterer grunnleggende forståelse av AI og maskinlæring samt hvordan Azure AI tjenester brukes ansvarlig til å bygge løsninger.",
+          "en": "Documents fundamental understanding of AI and machine learning as well as how Azure AI services are used responsibly to build solutions."
+        }
+      },
+      {
+        "name": "Azure Fundamentals (AZ-900)",
+        "issuer": "Microsoft",
+        "date": "04.2021",
+        "description": {
+          "no": "Bekrefter grunnleggende kunnskap om sky konsepter, kjernetjenester i Azure samt styring og kostnadsforvaltning.",
+          "en": "Confirms foundational knowledge of cloud concepts, core Azure services, and governance and cost management."
+        }
+      },
+      {
+        "name": "DevOps Foundation",
+        "issuer": "DevOps Institute",
+        "date": "04.2022",
+        "description": {
+          "no": "Grunnleggende DevOps prinsipper som kultur, samarbeid, CI CD, automatisering og måling samt felles begrepsapparat.",
+          "en": "Foundational DevOps principles including culture, collaboration, CI/CD, automation, and measurement, as well as common terminology."
+        }
+      },
+      {
+        "name": "Responsive Web Design Developer Certification",
+        "issuer": "FreeCodeCamp",
+        "date": "02.2019",
+        "description": {
+          "no": "Praktisk sertifisering i HTML og CSS med fokus på tilgjengelighet, Flexbox, CSS Grid og responsivt design gjennom prosjektbygging.",
+          "en": "Practical certification in HTML and CSS with focus on accessibility, Flexbox, CSS Grid, and responsive design through project building."
+        }
+      },
+      {
+        "name": "CPUX-F Certified Professional for Usability and User Experience",
+        "issuer": "UXQB",
+        "date": "03.2023",
+        "description": {
+          "no": "Dekker brukerorientert designprosess etter ISO 9241-210 inkludert mål, krav, prototyping og brukertesting.",
+          "en": "Covers user-centered design process according to ISO 9241-210 including goals, requirements, prototyping, and user testing."
+        }
+      },
+      {
+        "name": "Professional Scrum Master I (PSM I)",
+        "issuer": "Scrum.org",
+        "date": "11.2023",
+        "description": {
+          "no": "Validerer forståelse av Scrum rammeverket, ansvar for Scrum Master og praktisk anvendelse av roller, artefakter og hendelser.",
+          "en": "Validates understanding of the Scrum framework, Scrum Master responsibilities, and practical application of roles, artifacts, and events."
+        }
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universitetet i Bergen (UiB)",
+        "degree": {
+          "no": "Bachelor i Informasjonsvitenskap",
+          "en": "Bachelor's in Information Science"
+        },
+        "period": "08.2016 - 06.2019",
+        "description": {
+          "no": "Bachelor i informasjonsvitenskap med fokus på informasjonssystemer, kunstig intelligens og menneske-maskin-interaksjon. Trenet i programmering, behovsanalyse, datahåndtering og utvikling av brukersentrerte dataløsninger for ulike virksomheter.",
+          "en": "Bachelor's in Information Science with focus on information systems, artificial intelligence, and human-computer interaction. Trained in programming, needs analysis, data management, and development of user-centered data solutions for various organizations."
+        }
+      },
+      {
+        "institution": "Universitetet i Bergen (UiB)",
+        "degree": {
+          "no": "Master i Informasjonsvitenskap",
+          "en": "Master's in Information Science"
+        },
+        "period": "08.2019 - 06.2021",
+        "description": {
+          "no": "Master i informasjonsvitenskap med fordypning i IKT inkludert informasjonssystemer, kunstig intelligens og menneske-maskin-interaksjon. Sterk på analyse, design og utvikling i tverrfaglige team. Masteroppgave om forskning og prototyping av en sosial medier app som legger til rette for fysiske samlinger.",
+          "en": "Master's in Information Science with specialization in ICT including information systems, artificial intelligence, and human-computer interaction. Strong in analysis, design, and development in cross-functional teams. Master's thesis on research and prototyping of a social media app that facilitates physical gatherings."
+        }
+      }
+    ],
+    "languages": [
+      {
+        "language": {
+          "no": "Norsk",
+          "en": "Norwegian"
+        },
+        "level": {
+          "no": "Morsmål",
+          "en": "Native"
+        }
+      },
+      {
+        "language": {
+          "no": "Engelsk",
+          "en": "English"
+        },
+        "level": {
+          "no": "Meget god muntlig og skriftlig",
+          "en": "Excellent spoken and written"
+        }
+      }
+    ],
+    "engagement_overview": [
+      { "organization": "Bandos AI", "period": "08.2025 - 11.2025" },
+      { "organization": "Head Energy Marketing", "period": "08.2025" },
+      { "organization": "Garshi Consulting", "period": "08.2025" },
+      { "organization": "Head Energy", "period": "06.2025 - 08.2025" },
+      { "organization": "Equinor", "period": "04.2023 - 06.2025" },
+      { "organization": "Biodrone", "period": "10.2022 - 04.2023" },
+      { "organization": "Sopra Steria", "period": "09.2022 - 10.2022" },
+      { "organization": "Google", "period": "10.2021 - 08.2022" },
+      { "organization": "Telenor", "period": "08.2021 - 10.2021" },
+      { "organization": "Garshi Consulting", "period": "01.2019 - 09.2020" }
+    ],
+    "projects": [
+      {
+        "name": "Bandos AI",
+        "subtitle": {
+          "no": "AI-drevet smart tankekart",
+          "en": "AI-powered smart mind map"
+        },
+        "period": "08.2025 - 11.2025",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Etter flere års erfaring med å både delta og drive workshops for forståelse av brukerbehov og idemyldring, har Arian merket flere utfordringer som han ønsket å løse. I en typisk workshop kastes tanker og ideer og utfordringer ofte rundt uten struktur og hierarki som gjør dem til verdifull innsikt. Ofte går teamet med de første ideene som blir presentert og fokuserer på å bygge videre på dem istedenfor å tenke utenfor boksen og komme fram til alternative løsninger. Andre ganger dominerer enkelte deltakere samtalen mens andre blir sittende uten å komme til ordet.",
+              "en": "After several years of experience both participating in and facilitating workshops for understanding user needs and brainstorming, Arian noticed several challenges he wanted to solve. In a typical workshop, thoughts, ideas, and challenges are often thrown around without structure and hierarchy that would make them valuable insights. Often the team goes with the first ideas presented and focuses on building on them instead of thinking outside the box and coming up with alternative solutions. Other times, certain participants dominate the conversation while others sit without getting a word in."
+            },
+            {
+              "no": "Arians ide for å løse disse typiske frustrasjonene var å introdusere LLMs til prosessen i en webapplikasjon som han har utviklet selvstendig. Prosessen starter med et tankekart. I kjernen beskriver man den ideelle kunden man ønsker å fokusere på. Deretter lager man noder som representerer kundens viktigste behov og frustrasjoner.",
+              "en": "Arian's idea for solving these typical frustrations was to introduce LLMs to the process in a web application that he developed independently. The process starts with a mind map. At the core, you describe the ideal customer you want to focus on. Then you create nodes representing the customer's most important needs and frustrations."
+            },
+            {
+              "no": "Fra disse nodene starter en stegvis idémyldringsprosess som resulterer i ulike kreative retninger man kan gå for å hjelpe kunden nå sine mål. På hvert nivå i tankekartet genererer kunstig intelligens flere mulige retninger å utforske. Teamet diskuterer forslagene, redigerer og bygger på teksten, og stemmer på favorittene, og kunstig intelligens bygger videre på de ideene som får mest støtte.",
+              "en": "From these nodes, a step-by-step brainstorming process begins that results in various creative directions one can take to help the customer reach their goals. At each level in the mind map, artificial intelligence generates several possible directions to explore. The team discusses the suggestions, edits and builds on the text, and votes on favorites, and artificial intelligence builds further on the ideas that receive the most support."
+            },
+            {
+              "no": "Slik vokser konseptet fram som et hierarki av grener, til man sitter igjen med et lite sett konkrete, realistiske og gjennomførbare konsepter for produktdesign.",
+              "en": "This way the concept grows as a hierarchy of branches, until you are left with a small set of concrete, realistic, and achievable product design concepts."
+            },
+            {
+              "no": "Resultatet eksporteres som en generert \"prompt\" til Figma Make, som automatisk lager raske prototyper av de ulike konseptene på få minutter. På denne måten kan man i løpet av én workshop både komme på kreative måter å løse et problem, og teste alternativene gjennom interaktive prototyper.",
+              "en": "The result is exported as a generated \"prompt\" to Figma Make, which automatically creates rapid prototypes of the various concepts in minutes. This way, in the course of one workshop, you can both come up with creative ways to solve a problem and test the alternatives through interactive prototypes."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Backend utvikler",
+              "en": "Backend Developer"
+            },
+            "description": {
+              "no": "Arian bygde backend med Fastify og TypeScript. Fastify ble valgt for ytelse. Supabase (PostgreSQL) brukes for database og autentisering, med Row Level Security. LangChain brukes for AI-integrasjoner. Arkitekturen er servicebasert med separate tjenester for AI-operasjoner, integrasjoner og mindmap-håndtering. JWT-basert autentisering håndteres via middleware.",
+              "en": "Arian built the backend with Fastify and TypeScript. Fastify was chosen for performance. Supabase (PostgreSQL) is used for database and authentication, with Row Level Security. LangChain is used for AI integrations. The architecture is service-based with separate services for AI operations, integrations, and mindmap handling. JWT-based authentication is handled via middleware."
+            }
+          },
+          {
+            "title": {
+              "no": "Frontend utvikler",
+              "en": "Frontend Developer"
+            },
+            "description": {
+              "no": "Arian bygde frontend med React og TypeScript, med Vite som build-verktøy. Ant Design brukes for UI, og Styled Components for styling. React Flow brukes til å tilrettelegge et interaktivt tankekart. Routing håndteres med React Router 7. Arkitekturen følger en custom hooks-pattern for gjenbrukbar logikk. React Context brukes for state management (autentisering og apptilstand). Auto-save er implementert med debouncing, og real-time state-synkronisering mellom React Flow og backend håndteres.",
+              "en": "Arian built the frontend with React and TypeScript, with Vite as the build tool. Ant Design is used for UI, and Styled Components for styling. React Flow is used to facilitate an interactive mind map. Routing is handled with React Router 7. The architecture follows a custom hooks pattern for reusable logic. React Context is used for state management (authentication and app state). Auto-save is implemented with debouncing, and real-time state synchronization between React Flow and backend is handled."
+            }
+          },
+          {
+            "title": {
+              "no": "UX designer",
+              "en": "UX Designer"
+            },
+            "description": {
+              "no": "Arian designet brukergrensesnittet med utgangspunkt i Ant Design-komponenter. Styled Components brukes for konsistent styling og tilpassede komponenter. Informasjonsarkitektur er organisert med tydelige kategorier for nodetyper (ideer, krav, risikoer, informasjon) og visuell hierarkiindikasjon. Applikasjonen skal brukes i en fase hvor informasjon er løst, og ideer blir kastet om kring. Derfor designet Arian løsningen som et tankekart hvor ulike noder kan intuitivt legges til, flyttes og kobles om. Deretter kommer det et AI-lag på toppen av systemet, hvor LLMs benyttes for å drive disse løse tankene framover til en konkret og implementerbar plan.",
+              "en": "Arian designed the user interface based on Ant Design components. Styled Components is used for consistent styling and custom components. Information architecture is organized with clear categories for node types (ideas, requirements, risks, information) and visual hierarchy indication. The application is meant to be used in a phase where information is loose and ideas are being thrown around. Therefore, Arian designed the solution as a mind map where different nodes can be intuitively added, moved, and reconnected. Then an AI layer comes on top of the system, where LLMs are used to drive these loose thoughts forward to a concrete and implementable plan."
+            }
+          }
+        ],
+        "technology": [
+          "Fastify",
+          "TypeScript",
+          "Supabase",
+          "PostgreSQL",
+          "LangChain",
+          "React",
+          "Vite",
+          "Ant Design",
+          "Styled Components",
+          "React Flow",
+          "React Router"
+        ]
+      },
+      {
+        "name": "Head Energy Marketing",
+        "subtitle": {
+          "no": "Webflow og markedsanalyse",
+          "en": "Webflow and marketing analytics"
+        },
+        "period": "08.2025",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Arian videreutviklet selskapets Webflow løsning og leverte nye responsive kampanjesider, blant annet for en nystartet podcast. Han bygde gjenbrukbare komponenter og rettet mindre feil på eksisterende sider for å gjøre redigering enklere.",
+              "en": "Arian further developed the company's Webflow solution and delivered new responsive campaign pages, including for a newly launched podcast. He built reusable components and fixed minor bugs on existing pages to make editing easier."
+            },
+            {
+              "no": "Han gjennomførte kompetanseoverføring slik at markedsavdelingen selv kan lage nye sider og få grunnleggende kontroll på Designer dashbordet.",
+              "en": "He conducted knowledge transfer so the marketing department can create new pages themselves and gain basic control of the Designer dashboard."
+            },
+            {
+              "no": "I tillegg satte han opp analysedashboards i Looker Studio og brukte Supermetrics for å hente nøkkeltall som antall følgere, gjennomsnittlig tid på side og engasjement på TikTok.",
+              "en": "Additionally, he set up analytics dashboards in Looker Studio and used Supermetrics to fetch key metrics such as follower count, average time on page, and TikTok engagement."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "SEO og webanalyse",
+              "en": "SEO and Web Analytics"
+            },
+            "description": {
+              "no": "Som rådgiver for analyse satte Arian opp Looker Studio dashboards og koblet datakilder via Supermetrics. Han avklarte hvilke tall som skulle følges med på, inkludert følgere, gjennomsnittlig tid brukt på siden og TikTok engasjement, og leverte rapporter som teamet kan oppdatere og bruke selv i videre arbeid.",
+              "en": "As an analytics advisor, Arian set up Looker Studio dashboards and connected data sources via Supermetrics. He clarified which metrics to track, including followers, average time spent on page, and TikTok engagement, and delivered reports that the team can update and use themselves going forward."
+            }
+          },
+          {
+            "title": {
+              "no": "Webflow utvikler",
+              "en": "Webflow Developer"
+            },
+            "description": {
+              "no": "Som frontendutvikler i Webflow hadde Arian ansvar for å bygge de responsive kampanjesidene, inkludert landingssiden for podcasten, etablere gjenbrukbare seksjoner og komponenter og rette småfeil som skapte friksjon i redigeringen. Han sørget for at løsningen var enkel å ta videre internt og holdt praktisk opplæring i Designer dashbordet slik at markedsavdelingen kan opprette og publisere nye sider på egen hånd.",
+              "en": "As a frontend developer in Webflow, Arian was responsible for building the responsive campaign pages, including the podcast landing page, establishing reusable sections and components, and fixing minor bugs that caused friction in editing. He ensured the solution was easy to maintain internally and held practical training on the Designer dashboard so the marketing department can create and publish new pages on their own."
+            }
+          }
+        ],
+        "technology": [
+          "Webflow",
+          "Looker Studio",
+          "Supermetrics"
+        ]
+      },
+      {
+        "name": "Garshi Consulting",
+        "subtitle": {
+          "no": "AI-assistert CV matching",
+          "en": "AI-assisted CV matching"
+        },
+        "period": "08.2025",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Prosjektet innebærer utviklingen av en Python tjeneste som kjører i Azure. CV data settes inn og organiseres i Sanity, og hentes med GROQ.",
+              "en": "The project involves developing a Python service running in Azure. CV data is entered and organized in Sanity, and fetched with GROQ."
+            },
+            {
+              "no": "En FastAPI app i Python konverterer oppføringene til semantiske vektorer, lagrer dem i Azure PostgreSQL med pgvector og velger de mest relevante erfaringene for hver stillingsbeskrivelse.",
+              "en": "A FastAPI app in Python converts the entries to semantic vectors, stores them in Azure PostgreSQL with pgvector, and selects the most relevant experiences for each job description."
+            },
+            {
+              "no": "En språkmodell skriver en kort begrunnelse med lenker til relevante CV poster. Frontend på Vercel kaller ett endepunkt i FastAPI.",
+              "en": "A language model writes a brief justification with links to relevant CV entries. The frontend on Vercel calls a single endpoint in FastAPI."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Fullstack utvikler",
+              "en": "Fullstack Developer"
+            },
+            "description": {
+              "no": "Arian har satt opp CV data i Sanity med egne dokumenttyper for arbeidserfaring, prosjekter, roller, utdanning, sertifiseringer og språk, med felt for periode, ansvar og teknologier. Han henter dataene med GROQ til en Python FastAPI app i Azure, gjør hver post om til tekst og lager vektorer som sammenlignes med cosinuslikhet. Da finner han de mest relevante delene av CVen og sender bare disse videre til modellen, noe som korter ned konteksten, senker tokenbruk og gjør svaret raskere og billigere. Resultatet er en kort, begrunnet vurdering med lenker til de riktige CV postene.",
+              "en": "Arian has set up CV data in Sanity with custom document types for work experience, projects, roles, education, certifications, and languages, with fields for period, responsibilities, and technologies. He fetches the data with GROQ to a Python FastAPI app in Azure, converts each entry to text, and creates vectors that are compared using cosine similarity. This finds the most relevant parts of the CV and sends only these to the model, which shortens the context, reduces token usage, and makes the response faster and cheaper. The result is a brief, justified assessment with links to the correct CV entries."
+            }
+          }
+        ],
+        "technology": [
+          "Python",
+          "React",
+          "TypeScript",
+          "OpenAI",
+          "FastAPI",
+          "CORS",
+          "Vercel",
+          "Azure",
+          "GitHub",
+          "Docker",
+          "Sanity",
+          "Prompt Engineering",
+          "Railway"
+        ]
+      },
+      {
+        "name": "Head Energy",
+        "subtitle": {
+          "no": "AI-drevet analyse av faktura",
+          "en": "AI-powered invoice analysis"
+        },
+        "period": "06.2025 - 08.2025",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Head Energy mottar fakturadata for timeføring fra mange leverandører og i ulike filformater. For å slippe manuell gjennomgang og omformattering før import til Business Central, har Arians team etablert en løsning som tar inn filene automatisk, lar en AI agent lese og strukturere innholdet, og formaterer dataene etter kravene i Business Central.",
+              "en": "Head Energy receives invoice data for time tracking from many suppliers in various file formats. To avoid manual review and reformatting before import to Business Central, Arian's team established a solution that automatically ingests the files, lets an AI agent read and structure the content, and formats the data according to Business Central requirements."
+            },
+            {
+              "no": "Verdiene går deretter til en menneskelig kvalitetssjekk i lønnsavdelingen, der tallene gjennomgås og eventuelle avvik rettes før eksport. Arbeidsflyten blir dermed et samspill mellom AI og fagpersoner.",
+              "en": "The values then go to a human quality check in the payroll department, where the figures are reviewed and any discrepancies corrected before export. The workflow thus becomes an interplay between AI and domain experts."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "UX lead",
+              "en": "UX Lead"
+            },
+            "description": {
+              "no": "Arian ledet designprosessen for en ny plattform som skulle automatisere uthenting av data fra betalingssertifikater. Gjennom intervjuer med kjernebrukere oppdaget han at de største utfordringene ikke bare var repetitivt arbeid, men manglende koordinering, uoversiktlige prosesser og høyt stressnivå. Han benyttet Design Thinking for å ramme inn problemet og sikre at løsningene var forankret i reelle behov. Inspirert av kjente samarbeidsmønstre, som GitHubs Assignee-system, designet han et dashboard som fordelte oppgaver automatisk.",
+              "en": "Arian led the design process for a new platform that would automate data extraction from payment certificates. Through interviews with core users, he discovered that the biggest challenges were not just repetitive work, but lack of coordination, unclear processes, and high stress levels. He used Design Thinking to frame the problem and ensure solutions were grounded in real needs. Inspired by familiar collaboration patterns, such as GitHub's Assignee system, he designed a dashboard that distributed tasks automatically."
+            },
+            "details": [
+              {
+                "no": "Løsningen ble kontinuerlig validert gjennom brukertesting, der han avdekket og løste sentrale usability-barrierer knyttet til arbeidsflyt, informasjonsmengde og kognitiv belastning.",
+                "en": "The solution was continuously validated through user testing, where he identified and resolved key usability barriers related to workflow, information volume, and cognitive load."
+              },
+              {
+                "no": "For å håndtere svært store dokumenter utviklet han en trinnvis review-prosess med klar fremdriftsindikator. Dette ga struktur, minimerte overveldelse og gjorde det mulig å pause eller overta andres arbeid uten tap av oversikt.",
+                "en": "To handle very large documents, he developed a step-by-step review process with clear progress indicators. This provided structure, minimized overwhelm, and made it possible to pause or take over others' work without losing overview."
+              },
+              {
+                "no": "Han bygget også inn robusthet ved å sikre at systemet fungerte sømløst uten AI, slik at brukere alltid kunne korrigere eller legge inn data manuelt.",
+                "en": "He also built in robustness by ensuring the system worked seamlessly without AI, so users could always correct or enter data manually."
+              },
+              {
+                "no": "Et viktig prinsipp i arbeidet var å designe for skalerbarhet og konsistens. Arian etablerte design tokens og tydelige UX-prinsipper for hierarki, interaksjon og visuell identitet. Dette la grunnlaget for en fleksibel, gjenbrukbar kodebase og en helhetlig brukeropplevelse som kan utvikles videre uten å miste konsistens eller kvalitet.",
+                "en": "An important principle in the work was designing for scalability and consistency. Arian established design tokens and clear UX principles for hierarchy, interaction, and visual identity. This laid the foundation for a flexible, reusable codebase and a cohesive user experience that can be further developed without losing consistency or quality."
+              },
+              {
+                "no": "Resultatet var en ny arbeidsflyt som kombinerte automatisering, strukturert samarbeid og høy brukervennlighet. Løsningen reduserte kompleksitet, fjernet friksjon i prosessene og frigjorde hundrevis av timer for lønnsavdelingen.",
+                "en": "The result was a new workflow that combined automation, structured collaboration, and high usability. The solution reduced complexity, removed friction in the processes, and freed up hundreds of hours for the payroll department."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Frontend lead",
+              "en": "Frontend Lead"
+            },
+            "description": {
+              "no": "Arian implementerte hele klientløsningen i TypeScript med Material UI, inkludert opplasting og parsing av fakturafiler, triagering av AI-ekstrahert data, flagging av avvik, assignee og vikarspor, batchendringer, godkjenning og eksport til Business Central.",
+              "en": "Arian implemented the entire client solution in TypeScript with Material UI, including upload and parsing of invoice files, triage of AI-extracted data, flagging of discrepancies, assignee and substitute tracking, batch changes, approval, and export to Business Central."
+            },
+            "details": [
+              {
+                "no": "Utviklingen var AI assistert med Cursor, der AI tok det tunge kodearbeidet på komponenter, skjemaer, tabeller og API-klienter.",
+                "en": "Development was AI-assisted with Cursor, where AI handled the heavy code work on components, forms, tables, and API clients."
+              },
+              {
+                "no": "Arian styrte spesifikasjon, delte opp oppgaver, gjorde code review, la på validering, feilhåndtering og testdekning, og sikret type-sikker integrasjon mot backend.",
+                "en": "Arian managed specification, broke down tasks, performed code review, added validation, error handling, and test coverage, and ensured type-safe integration with the backend."
+              },
+              {
+                "no": "Resultatet var markant kortere time to delivery og hyppigere, tryggere releaser.",
+                "en": "The result was significantly shorter time to delivery and more frequent, safer releases."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Automatiseringsutvikler",
+              "en": "Automation Developer"
+            },
+            "description": {
+              "no": "Arian satte opp en n8n basert kjede som hentet inn fakturaeposter via IMAP, lot en Claude modell lese vedlegg og tekst, og formatterte ut dataene før utsending via API.",
+              "en": "Arian set up an n8n-based pipeline that fetched invoice emails via IMAP, let a Claude model read attachments and text, and formatted the data before sending via API."
+            },
+            "details": [
+              {
+                "no": "Epost ble tatt inn med Email Trigger IMAP, AI ble koblet på gjennom n8ns Anthropic node, og avvik ble varslet i Telegram slik at brukere kunne bekrefte eller korrigere verdier.",
+                "en": "Email was ingested with Email Trigger IMAP, AI was connected through n8n's Anthropic node, and discrepancies were notified in Telegram so users could confirm or correct values."
+              },
+              {
+                "no": "Korrigert input ble sendt tilbake i flyten for å styre neste AI kjøring.",
+                "en": "Corrected input was sent back into the flow to guide the next AI run."
+              },
+              {
+                "no": "Arbeidet var en tidlig test av hva AI og n8n kan automatisere i fakturakontroll, med menneskelig godkjenning som siste steg før eksport.",
+                "en": "The work was an early test of what AI and n8n can automate in invoice control, with human approval as the final step before export."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "n8n",
+          "TypeScript",
+          "Claude API",
+          "AI Agents",
+          "React",
+          "UX Design",
+          "HTML",
+          "GitHub",
+          "Azure",
+          "Material UI"
+        ]
+      },
+      {
+        "name": "Equinor",
+        "subtitle": {
+          "no": "Fusion-plattformen",
+          "en": "Fusion Platform"
+        },
+        "period": "04.2023 - 06.2025",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Arians team var en del av Equinors innovasjonssatsing. Teamet utvikler fullstack apper med React i frontend og .NET i backend, publisert på Equinors Fusion plattform.",
+              "en": "Arian's team was part of Equinor's innovation initiative. The team develops fullstack apps with React in frontend and .NET in backend, published on Equinor's Fusion platform."
+            },
+            {
+              "no": "Mandatet er å modernisere og effektivisere arbeidet til ingeniører og prosjektledere ved å erstatte eldre Excel baserte kalkulatorer og visualiseringer med vedlikeholdbare webapplikasjoner.",
+              "en": "The mandate is to modernize and streamline the work of engineers and project managers by replacing older Excel-based calculators and visualizations with maintainable web applications."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Frontend-utvikler",
+              "en": "Frontend Developer"
+            },
+            "description": {
+              "no": "Som teamets frontendutvikler ledet Arian utviklingen av brukergrensesnittet i flere webapplikasjoner. Han brukte React + Typescript, sammen med Equinors EDS og MUI designsystem, React Query for data fetching, og Framer Motion for animasjoner og interaktivitet.",
+              "en": "As the team's frontend developer, Arian led the development of the user interface in several web applications. He used React + TypeScript, along with Equinor's EDS and MUI design system, React Query for data fetching, and Framer Motion for animations and interactivity."
+            },
+            "details": [
+              {
+                "no": "Løsningene integrerte han inn i Azure Devops CI/CD pipelines som la opp til ulike miljøer for autonom test og release av appene.",
+                "en": "He integrated the solutions into Azure DevOps CI/CD pipelines that set up different environments for autonomous testing and release of the apps."
+              },
+              {
+                "no": "Arian definerte et rammeverk for utviklerne, med klare retningslinjer for filstruktur, navngivning, komponentgjenbruk og testing. Han etablerte også standarder for valg av biblioteker, kodepraksis og dokumentasjon.",
+                "en": "Arian defined a framework for developers, with clear guidelines for file structure, naming, component reuse, and testing. He also established standards for library selection, code practices, and documentation."
+              },
+              {
+                "no": "Blant bidragene var et søkesystem med dynamisk filtrering og et chatsystem med taggefunksjon for å tilrettelegge kommunikasjon og samarbeid i PIA, et filarkiv med millionsvis av forskjellige filer og filtyper.",
+                "en": "Among the contributions was a search system with dynamic filtering and a chat system with tagging functionality to facilitate communication and collaboration in PIA, a file archive with millions of different files and file types."
+              },
+              {
+                "no": "Han utviklet også et notifikasjonssystem som informerte brukere om relevante hendelser i systemet, en autolagringsfunksjon med \"undo\" og \"redo\" funksjonalitet i Concept app, en app laget for å tilrettelegge kommunikasjon og evaluering av brønnprosjekter.",
+                "en": "He also developed a notification system that informed users about relevant events in the system, an auto-save function with \"undo\" and \"redo\" functionality in Concept app, an app created to facilitate communication and evaluation of well projects."
+              },
+              {
+                "no": "Tiltakene ga en mer effektiv og intuitiv brukeropplevelse, og automatiserte en rekke kalkulasjoner relatert til kostnad og planlegging.",
+                "en": "The measures resulted in a more efficient and intuitive user experience, and automated a number of calculations related to cost and planning."
+              },
+              {
+                "no": "I tillegg utviklet han et Gantt chart fra bunnen, ved hjelp av generativ AI. Løsningen har støtte for å legge til faser og hendelser og med interaktiv drag and drop for valg av datoer, og har en dedikert \"present\" og \"edit\" modus.",
+                "en": "Additionally, he developed a Gantt chart from scratch, using generative AI. The solution supports adding phases and events with interactive drag and drop for date selection, and has dedicated \"present\" and \"edit\" modes."
+              },
+              {
+                "no": "Dette gjorde en tidligere løsning som kun bestod av inputfelter og tekst langt mer brukervennlig. Det ble lettere for ingeniørene å presentere prosjektene sine og planlegge framtidige tiltak.",
+                "en": "This made a previous solution that only consisted of input fields and text far more user-friendly. It became easier for engineers to present their projects and plan future measures."
+              },
+              {
+                "no": "Selv om hans fokus var frontend, har han også gjort en rekke oppgaver i miljøets .NET backend hvor han satte opp nye REST API-punkter og flyttet tunge kalkulasjoner fra frontend til backend for å gjøre applikasjonen mer effektiv for brukerne.",
+                "en": "Although his focus was frontend, he also completed numerous tasks in the environment's .NET backend where he set up new REST API endpoints and moved heavy calculations from frontend to backend to make the application more efficient for users."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "UX-designer",
+              "en": "UX Designer"
+            },
+            "description": {
+              "no": "Arian brukte sin utviklerbakgrunn til å styre designbeslutninger som balanserte brukervennlighet med teknisk realiserbarhet, noe som ga kortere leveringstid uten at kjerneopplevelsen ble svekket.",
+              "en": "Arian used his developer background to guide design decisions that balanced usability with technical feasibility, resulting in shorter delivery time without weakening the core experience."
+            },
+            "details": [
+              {
+                "no": "Han jobbet med Equinors designrammeverk (EDS), og utviklet skreddersydde komponenter som bygget videre på eksisterende tokens, slik at nye elementer ble både konsistente og kostnadseffektive å implementere.",
+                "en": "He worked with Equinor's design framework (EDS), and developed custom components that built on existing tokens, so that new elements were both consistent and cost-effective to implement."
+              },
+              {
+                "no": "Han hadde ansvar for UX-design av flere komplekse komponenter, blant annet Gantt-chart, chat-system og en drag-and-drop-mekanisme for dashboards.",
+                "en": "He was responsible for UX design of several complex components, including Gantt chart, chat system, and a drag-and-drop mechanism for dashboards."
+              },
+              {
+                "no": "Designprosessen fulgte User-Centered Design (UCD), hvor han startet med å kartlegge brukernes behov, kontekst og frustrasjoner gjennom innsiktssamtaler.",
+                "en": "The design process followed User-Centered Design (UCD), where he started by mapping users' needs, context, and frustrations through insight conversations."
+              },
+              {
+                "no": "Basert på denne innsikten utarbeidet han low-fidelity prototyper i Figma, som ble validert i brukertester med 3–4 kjernebrukere.",
+                "en": "Based on this insight, he created low-fidelity prototypes in Figma, which were validated in user tests with 3-4 core users."
+              },
+              {
+                "no": "Han observerte hvordan de løste oppgaver, avdekket kognitive barrierer og justerte designet gjennom iterative runder.",
+                "en": "He observed how they solved tasks, identified cognitive barriers, and adjusted the design through iterative rounds."
+              },
+              {
+                "no": "Slik sikret han at de endelige løsningene hadde lav kognitiv belastning, tydelig interaksjonslogikk og løste faktiske pain points i arbeidsflyten.",
+                "en": "This ensured that the final solutions had low cognitive load, clear interaction logic, and solved actual pain points in the workflow."
+              },
+              {
+                "no": "Resultatet ble komponenter som var enkle å ta i bruk, integrerte sømløst i Equinors rammeverk, og ga verdi både for sluttbrukere og utviklingsteam ved å redusere friksjon og sikre skalerbarhet.",
+                "en": "The result was components that were easy to adopt, integrated seamlessly into Equinor's framework, and provided value for both end users and development teams by reducing friction and ensuring scalability."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "React Router",
+          "React.js",
+          "TypeScript",
+          "Scrum",
+          "JavaScript",
+          "REST",
+          "CSS",
+          "Styled Components",
+          "Agile Development",
+          "Kanban",
+          "Figma",
+          "UX Design",
+          "Playwright",
+          "Material UI",
+          "React Query",
+          "Adobe Illustrator",
+          "Cursor",
+          "Generative AI",
+          "Azure DevOps",
+          "Framer Motion",
+          "Node.js",
+          ".NET"
+        ]
+      },
+      {
+        "name": "Biodrone",
+        "subtitle": {
+          "no": "Biodrone AI-portal",
+          "en": "Biodrone AI Portal"
+        },
+        "period": "10.2022 - 04.2023",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Arian var design og frontend ansvarlig for en webapplikasjon for Biodrone. Løsningen lar brukere laste opp droneopptak, sammenstille bildene og kjøre KI-analyser som teller og kategoriserer objekter, avdekker skader og identifiserer risiko.",
+              "en": "Arian was responsible for design and frontend for a web application for Biodrone. The solution lets users upload drone footage, stitch images together, and run AI analyses that count and categorize objects, detect damage, and identify risks."
+            },
+            {
+              "no": "Resultatene presenteres i et oversiktlig grensesnitt som støtter innsikt og videre beslutninger. Portalen er bygget som en helhetlig kjede for opplasting, \"stitching\" og analyse av luftdata med KI.",
+              "en": "The results are presented in a clear interface that supports insight and further decisions. The portal is built as a complete pipeline for uploading, stitching, and analyzing aerial data with AI."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "UX lead",
+              "en": "UX Lead"
+            },
+            "description": {
+              "no": "Arian designet et system som gjorde avansert AI-trening tilgjengelig for ikke-tekniske brukere.",
+              "en": "Arian designed a system that made advanced AI training accessible to non-technical users."
+            },
+            "details": [
+              {
+                "no": "Gjennom behovskartlegging med forskere og skogforvaltere definerte han informasjonsarkitektur, brukerflyt og interaksjonsmønstre.",
+                "en": "Through needs mapping with researchers and forest managers, he defined information architecture, user flow, and interaction patterns."
+              },
+              {
+                "no": "Målet var å senke terskelen slik at brukerne selv kunne trene modeller for å oppdage objekter i dronebilder uten teknisk opplæring.",
+                "en": "The goal was to lower the threshold so that users themselves could train models to detect objects in drone images without technical training."
+              },
+              {
+                "no": "Han utviklet en annoteringsflyt hvor brukerne markerte objekter direkte i bildeutsnitt.",
+                "en": "He developed an annotation flow where users marked objects directly in image sections."
+              },
+              {
+                "no": "Systemet konverterte markeringene til treningsdata, kjørte analyser og visualiserte resultatene i kartet.",
+                "en": "The system converted the markings to training data, ran analyses, and visualized the results on the map."
+              },
+              {
+                "no": "For å redusere kognitiv belastning ble flyten brutt ned i enkle steg, valgene begrenset og tilbakemelding gitt umiddelbart.",
+                "en": "To reduce cognitive load, the flow was broken down into simple steps, choices were limited, and feedback was given immediately."
+              },
+              {
+                "no": "Ettersom hvert kartbilde kunne inneholde flere kategorier av innsikt, måtte komplekse datasett gjøres oversiktlige.",
+                "en": "Since each map image could contain multiple categories of insight, complex datasets had to be made manageable."
+              },
+              {
+                "no": "Arian løste dette med OpenLayers' layer-system, der ulike lag (f.eks. koordinater for treslag, tetthets-heatmaps eller stormskader) kunne toggles av/på via en side-bar.",
+                "en": "Arian solved this with OpenLayers' layer system, where different layers (e.g., coordinates for tree species, density heatmaps, or storm damage) could be toggled on/off via a sidebar."
+              },
+              {
+                "no": "Dette ga brukerne fleksibilitet til å filtrere frem relevant data uten å bli overveldet, og å tilpasse visningen til ulike situasjoner.",
+                "en": "This gave users flexibility to filter relevant data without being overwhelmed, and to customize the view for different situations."
+              },
+              {
+                "no": "For konsistens og skalerbarhet etablerte han et Theme-system basert på tokens for farger, typografi og spacing, slik at grensesnittet kunne tilpasses hyppige iterasjoner uten å miste helhet.",
+                "en": "For consistency and scalability, he established a theme system based on tokens for colors, typography, and spacing, so the interface could adapt to frequent iterations without losing cohesion."
+              },
+              {
+                "no": "Han designet også en model-selection-flyt som lot brukere bytte mellom AI-modeller og sammenligne resultater direkte i konteksten.",
+                "en": "He also designed a model selection flow that let users switch between AI models and compare results directly in context."
+              },
+              {
+                "no": "Resultatet var en robust løsning som kombinerte prinsipper for lav kognitiv belastning, visuell klarhet og gjenkjennbare mønstre.",
+                "en": "The result was a robust solution that combined principles of low cognitive load, visual clarity, and recognizable patterns."
+              },
+              {
+                "no": "Systemet gjorde det mulig for fagpersoner å trene, evaluere og sammenligne AI-modeller direkte i sin arbeidskontekst, uten tekniske barrierer.",
+                "en": "The system enabled domain experts to train, evaluate, and compare AI models directly in their work context, without technical barriers."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Frontend utvikler",
+              "en": "Frontend Developer"
+            },
+            "description": {
+              "no": "Arian implementerte brukergrensesnittet i React og integrerte mot backend for opplasting, behandling og visning av resultater.",
+              "en": "Arian implemented the user interface in React and integrated with the backend for upload, processing, and display of results."
+            },
+            "details": [
+              {
+                "no": "Han benyttet seg av Bootstrap UI biblioteket for raskere utvikling, og brukte OpenLayers som kartsystem.",
+                "en": "He used the Bootstrap UI library for faster development, and used OpenLayers as the map system."
+              },
+              {
+                "no": "Han implementerte et dashbord med innlogging, hvor brukere laster opp dronebilder og bruker både eksisterende modeller på analyse av bildene, og trener modeller for å detektere nye objekter på bildene.",
+                "en": "He implemented a dashboard with login, where users upload drone images and use both existing models to analyze the images, and train models to detect new objects in the images."
+              },
+              {
+                "no": "Grensesnittet bestod av avanserte interaksjoner som sirkler og vektorer på bildeutsnitt, lagring av annotasjoner, filtrering og analyse av funn, og en intuitiv progresjonsvisning for nye kjøringer.",
+                "en": "The interface consisted of advanced interactions such as circles and vectors on image sections, storage of annotations, filtering and analysis of findings, and an intuitive progress display for new runs."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Sanity utvikler",
+              "en": "Sanity Developer"
+            },
+            "description": {
+              "no": "Satte opp et enkelt dashboard i Sanity Studio for nettstedet.",
+              "en": "Set up a simple dashboard in Sanity Studio for the website."
+            },
+            "details": [
+              {
+                "no": "Administrator kan oppdatere forsiden, tekster, seksjoner og lenker uten utvikler.",
+                "en": "Administrator can update the front page, texts, sections, and links without a developer."
+              },
+              {
+                "no": "La inn felter for titler, beskrivelser, bilder og kall til handling, med forhåndsvisning og grunnleggende validering.",
+                "en": "Added fields for titles, descriptions, images, and calls to action, with preview and basic validation."
+              },
+              {
+                "no": "Endringer kan publiseres trygt og forutsigbart.",
+                "en": "Changes can be published safely and predictably."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "React.js",
+          "React Router",
+          "Styled Components",
+          "OpenLayers",
+          "Bootstrap",
+          "Figma",
+          "JavaScript",
+          "CSS",
+          "REST API",
+          "UX Design",
+          "Selenium",
+          "E2E Testing",
+          "Python",
+          "Test Automation",
+          "Kanban",
+          "Prettier",
+          "FastAPI",
+          "GitLab",
+          "Agile Development",
+          "Sanity",
+          "GitHub Copilot",
+          "Generative AI"
+        ]
+      },
+      {
+        "name": "Sopra Steria",
+        "subtitle": {
+          "no": "Marketing bildedatabase",
+          "en": "Marketing image database"
+        },
+        "period": "09.2022 - 10.2022",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "I forbindelse med integrasjon mot en ny plattform var det nødvendig å støtte fokuspunkt, beskjæring og tilpassede dimensjoner for bilder i databasen.",
+              "en": "In connection with integration to a new platform, it was necessary to support focal point, cropping, and custom dimensions for images in the database."
+            },
+            {
+              "no": "Løsningen er en interaktiv komponent der redaktører klikker direkte på bildet for å sette fokuspunkt, drar for å justere utsnitt og bruker håndtak for å beskjære.",
+              "en": "The solution is an interactive component where editors click directly on the image to set focal point, drag to adjust the section, and use handles to crop."
+            },
+            {
+              "no": "Forhåndsvisning skjer i sanntid, og komponenten lagrer koordinater og størrelser per bilde slik at korrekte varianter kan genereres automatisk ved levering.",
+              "en": "Preview happens in real-time, and the component stores coordinates and sizes per image so that correct variants can be generated automatically upon delivery."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Sanity utvikler",
+              "en": "Sanity Developer"
+            },
+            "description": {
+              "no": "Arian bygget en React komponent i TypeScript for å registrere fokuspunkt, beskjæring og dimensjoner på bilder, slik plattformen krevde for integrasjon.",
+              "en": "Arian built a React component in TypeScript to register focal point, cropping, and dimensions on images, as the platform required for integration."
+            },
+            "details": [
+              {
+                "no": "Komponentens grensesnitt er interaktivt med klikk, dra og håndtak, og viser forhåndsvisning i sanntid.",
+                "en": "The component's interface is interactive with click, drag, and handles, and shows preview in real-time."
+              },
+              {
+                "no": "Data serialiseres til avtalte koordinater og størrelser mot API og database, med grunnleggende validering og feilhåndtering.",
+                "en": "Data is serialized to agreed coordinates and sizes against API and database, with basic validation and error handling."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "React",
+          "TypeScript",
+          "Sanity",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Google",
+        "subtitle": {
+          "no": "QA og innovasjon",
+          "en": "QA and innovation"
+        },
+        "period": "10.2021 - 08.2022",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Google er et amerikansk multinasjonalt selskap, kjent for sin søkemotor, tilbyr også smart-home-produkter.",
+              "en": "Google is an American multinational company, known for its search engine, also offering smart home products."
+            },
+            {
+              "no": "Prosjektet omfatter kvalitetssikring av disse, utført av et europeisk team som også lokaliserer og oversetter til sine respektive språk.",
+              "en": "The project encompasses quality assurance of these, performed by a European team that also localizes and translates to their respective languages."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Frontend-utvikler",
+              "en": "Frontend Developer"
+            },
+            "description": {
+              "no": "Som webutvikler ledet Arian et innovasjonsprosjekt for å effektivisere intern testing av smarthjem-produkter.",
+              "en": "As a web developer, Arian led an innovation project to streamline internal testing of smart home products."
+            },
+            "details": [
+              {
+                "no": "Han utviklet en webportal for bestilling av Google-testutstyr, for å effektivisere en prosess som tidligere ble gjort gjennom mailkommunikasjon.",
+                "en": "He developed a web portal for ordering Google test equipment, to streamline a process that was previously done through email communication."
+              },
+              {
+                "no": "Portalen ble bygget med JavaScript, CSS, HTML, AppScript og React.js.",
+                "en": "The portal was built with JavaScript, CSS, HTML, AppScript, and React.js."
+              },
+              {
+                "no": "Gjennom tett samarbeid med produkteier bidro Arian med forslag til design og teknologi, som sikret høy kvalitet og brukervennlighet.",
+                "en": "Through close collaboration with the product owner, Arian contributed suggestions for design and technology, which ensured high quality and usability."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "QA tester",
+              "en": "QA Tester"
+            },
+            "description": {
+              "no": "Under Quality Assurance gikk arbeidet ut på testing av ulike smarthjem-utstyr med mål om å oppdage UX-relaterte og funksjonelle feil.",
+              "en": "Under Quality Assurance, the work involved testing various smart home equipment with the goal of discovering UX-related and functional bugs."
+            },
+            "details": [
+              {
+                "no": "Feilene ble dokumentert og videresendt for behandling.",
+                "en": "The bugs were documented and forwarded for processing."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "UX designer",
+              "en": "UX Designer"
+            },
+            "description": {
+              "no": "Brukergrensesnittet skulle eliminere den fragmenterte og uoversiktlige prosessen Googles testere hadde rundt bestilling av testutstyr.",
+              "en": "The user interface was meant to eliminate the fragmented and unclear process Google's testers had around ordering test equipment."
+            },
+            "details": [
+              {
+                "no": "Tidligere ble bestillinger koordinert via e-post, chat og muntlig dialog, noe som skapte feil, glemt utstyr og frustrasjon.",
+                "en": "Previously, orders were coordinated via email, chat, and verbal dialogue, which caused errors, forgotten equipment, and frustration."
+              },
+              {
+                "no": "Arian ledet design og prototyping av en intern webportal som standardiserte hele bestillingsflyten.",
+                "en": "Arian led design and prototyping of an internal web portal that standardized the entire ordering flow."
+              },
+              {
+                "no": "Arian ledet brukertesting av ulike opplevelser. Han brukte Figma for interaktive wireframes tidlig og testet ferdige løsninger senere.",
+                "en": "Arian led user testing of different experiences. He used Figma for interactive wireframes early on and tested finished solutions later."
+              },
+              {
+                "no": "Han observerte brukernes navigasjon og oppgaveutførelse, fokuserte på uklarheter og frustrasjoner.",
+                "en": "He observed users' navigation and task completion, focusing on ambiguities and frustrations."
+              },
+              {
+                "no": "Han hentet inspirasjon fra etablerte nettbutikker for å skape en gjenkjennbar og intuitiv opplevelse.",
+                "en": "He drew inspiration from established online stores to create a recognizable and intuitive experience."
+              },
+              {
+                "no": "Alt utstyr ble listet i et katalogbasert grensesnitt hvor brukere kunne filtrere, legge til i handlekurv og fullføre bestillingen i en oversiktlig checkout-flyt.",
+                "en": "All equipment was listed in a catalog-based interface where users could filter, add to cart, and complete the order in a clear checkout flow."
+              },
+              {
+                "no": "Dette forenklet koordineringen, reduserte feilmarginene og ga brukerne en tydelig opplevelse av progresjon og kontroll.",
+                "en": "This simplified coordination, reduced error margins, and gave users a clear sense of progression and control."
+              },
+              {
+                "no": "For å sikre konsistens og skalerbarhet benyttet Arian Material UI-komponenter, tilpasset Googles interne branding.",
+                "en": "To ensure consistency and scalability, Arian used Material UI components, adapted to Google's internal branding."
+              },
+              {
+                "no": "Han etablerte informasjonsarkitektur og interaksjonsmønstre med fokus på lav kognitiv belastning, tydelig hierarki og umiddelbar tilbakemelding.",
+                "en": "He established information architecture and interaction patterns with focus on low cognitive load, clear hierarchy, and immediate feedback."
+              },
+              {
+                "no": "Prototypene ble utviklet i Figma og validert gjennom iterativ brukertesting.",
+                "en": "The prototypes were developed in Figma and validated through iterative user testing."
+              },
+              {
+                "no": "Prosjektet inkluderte workshops og dybdeintervjuer med kjernebrukere.",
+                "en": "The project included workshops and in-depth interviews with core users."
+              },
+              {
+                "no": "Usability-testene avdekket konkrete forbedringsområder, som ble implementert gjennom løpende iterasjoner.",
+                "en": "The usability tests revealed concrete areas for improvement, which were implemented through ongoing iterations."
+              },
+              {
+                "no": "Resultatet var en sømløs og tillitsskapende bestillingsplattform som kombinerte brukersentrert design, gjenkjennbare mønstre og konsistent visuell identitet.",
+                "en": "The result was a seamless and trust-building ordering platform that combined user-centered design, recognizable patterns, and consistent visual identity."
+              },
+              {
+                "no": "Løsningen erstattet en uformell og ineffektiv prosess med et strukturert system som reduserte feil, økte effektivitet og forbedret brukeropplevelsen betydelig.",
+                "en": "The solution replaced an informal and inefficient process with a structured system that reduced errors, increased efficiency, and significantly improved the user experience."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "GCP",
+          "Design Thinking",
+          "QA",
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "Functional Testing",
+          "Google Sheets API",
+          "UX Design",
+          "React.js",
+          "Figma",
+          "Material UI",
+          "AppScript"
+        ]
+      },
+      {
+        "name": "Telenor",
+        "subtitle": {
+          "no": "Drift og modernisering",
+          "en": "Operations and modernization"
+        },
+        "period": "08.2021 - 10.2021",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Telenor Norge AS er landets største digitale tjenesteleverandør innen innhold, telekommunikasjon og datatjenester.",
+              "en": "Telenor Norge AS is the country's largest digital service provider in content, telecommunications, and data services."
+            },
+            {
+              "no": "Prosjektet omfattet videreutvikling og vedlikehold av datasystemer på tvers av Telenors tjenester.",
+              "en": "The project encompassed further development and maintenance of data systems across Telenor's services."
+            },
+            {
+              "no": "Arian hadde ansvar for fornying og videreutvikling av IT systemer for behandling av kundedata, med vekt på kvalitetssikring gjennom diagnostisering og feilretting.",
+              "en": "Arian was responsible for renewal and further development of IT systems for processing customer data, with emphasis on quality assurance through diagnostics and bug fixing."
+            },
+            {
+              "no": "Arbeidet ble planlagt og sporet i Jira, og dokumentasjon av spesifikasjoner, beslutninger og driftsprosedyrer ble samlet i Confluence for sporbarhet og én kilde til sannhet.",
+              "en": "The work was planned and tracked in Jira, and documentation of specifications, decisions, and operational procedures was collected in Confluence for traceability and a single source of truth."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "Backend utvikler",
+              "en": "Backend Developer"
+            },
+            "description": {
+              "no": "Rollen gikk ut på å rette opp bugs i systemet og bruk av teknologier som Java med Spring-rammeverket, Git og Gradle med fokus på DevOps konsepter som Continuous Integration og Continuous Delivery pipelines.",
+              "en": "The role involved fixing bugs in the system and using technologies such as Java with the Spring framework, Git, and Gradle with focus on DevOps concepts such as Continuous Integration and Continuous Delivery pipelines."
+            }
+          }
+        ],
+        "technology": [
+          "Git",
+          "Gradle",
+          "DevOps",
+          "CI/CD Pipelines",
+          "Java",
+          "Spring Framework",
+          "Jira",
+          "Confluence"
+        ]
+      },
+      {
+        "name": "Garshi Consulting",
+        "subtitle": {
+          "no": "Webutvikling",
+          "en": "Web Development"
+        },
+        "period": "01.2019 - 09.2020",
+        "project_description": {
+          "paragraphs": [
+            {
+              "no": "Som eier av et enkeltpersonforetak leverte Arian komplette nettsideløsninger for små virksomheter som kunstnere, arkitekt, lederstøtte og frisører.",
+              "en": "As owner of a sole proprietorship, Arian delivered complete website solutions for small businesses such as artists, architects, executive coaching, and hairdressers."
+            },
+            {
+              "no": "Han tok hele løpet fra første kundemøte og behovsavklaring til design, utvikling, lansering og videre oppfølging.",
+              "en": "He handled the entire process from first client meeting and needs clarification to design, development, launch, and continued follow-up."
+            },
+            {
+              "no": "Arbeidet ble styrt etter tydelige mål for hver kunde, med fokus på at nettsiden skulle levere konkrete resultater som flere henvendelser, tydeligere profil og enklere publisering.",
+              "en": "The work was guided by clear goals for each client, with focus on the website delivering concrete results such as more inquiries, clearer profile, and easier publishing."
+            }
+          ]
+        },
+        "roles": [
+          {
+            "title": {
+              "no": "UX designer",
+              "en": "UX Designer"
+            },
+            "description": {
+              "no": "Arian designet nettsider for varierte prosjekter, med løsninger tilpasset både forskjellige målgrupper og forretningsmål.",
+              "en": "Arian designed websites for varied projects, with solutions adapted to different target audiences and business goals."
+            },
+            "details": [
+              {
+                "no": "Han startet alltid prosessen med en grundig analyse av konkurrerende nettsider for å forstå markedet og avdekke hvilke forventninger og behov målgruppen hadde.",
+                "en": "He always started the process with a thorough analysis of competing websites to understand the market and uncover what expectations and needs the target audience had."
+              },
+              {
+                "no": "Utgangspunktet var at nettsidens formål, enten det handlet om å selge tjenester, presentere verk eller tiltrekke nye kunder, alltid skulle være tydelig og styrende for designvalgene.",
+                "en": "The starting point was that the website's purpose, whether it was about selling services, presenting work, or attracting new customers, should always be clear and guide the design choices."
+              },
+              {
+                "no": "Sammen med kundene definerte han hovedmål og sekundærmål, kartla målgrupper og utviklet innhold og budskap.",
+                "en": "Together with the clients, he defined primary and secondary goals, mapped target audiences, and developed content and messaging."
+              },
+              {
+                "no": "Han eksperimenterte med ulike visuelle retninger og merkevaretilnærminger for å teste hvordan forskjellige uttrykk påvirket brukeropplevelsen og hvor godt de understøttet kundens identitet og strategiske mål.",
+                "en": "He experimented with different visual directions and branding approaches to test how different expressions affected the user experience and how well they supported the client's identity and strategic goals."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Fullstack utvikler",
+              "en": "Fullstack Developer"
+            },
+            "description": {
+              "no": "Under rollen eksperimenterte han med en rekke ulike webteknologier for hver nettside for å finne den perfekte kombinasjonen av teknologier og metodikk.",
+              "en": "In this role, he experimented with a variety of web technologies for each website to find the perfect combination of technologies and methodology."
+            },
+            "details": [
+              {
+                "no": "Innhold og kundedata ble i tidligere prosjekter lagret i relasjonsdatabaser hvor han utviklet et backend i PHP.",
+                "en": "Content and customer data were stored in relational databases in earlier projects where he developed a backend in PHP."
+              },
+              {
+                "no": "Deretter gikk han over til å bruke Contentful CMS, men endte til slutt til å bruke Sanity som go-to løsning.",
+                "en": "He then switched to using Contentful CMS, but eventually ended up using Sanity as his go-to solution."
+              },
+              {
+                "no": "Der modellerte han skjemaer og ga opplæring slik at kundene selv kunne publisere og oppdatere innhold på deres nettsider.",
+                "en": "There he modeled schemas and provided training so that clients could publish and update content on their websites themselves."
+              },
+              {
+                "no": "Frontend på de tidlige nettsidene utviklet han i vanilla html+javascript.",
+                "en": "Frontend on the early websites he developed in vanilla HTML+JavaScript."
+              },
+              {
+                "no": "Deretter laget han en nettside i Vue.js, men landet til slutt på React + typescript for alle senere nettsider som han leverte.",
+                "en": "He then created a website in Vue.js, but eventually settled on React + TypeScript for all later websites he delivered."
+              },
+              {
+                "no": "Han utforsket ulike design-rammeverk bibliotek som Material UI, Ant Design og Bootstrap.",
+                "en": "He explored various design framework libraries such as Material UI, Ant Design, and Bootstrap."
+              },
+              {
+                "no": "Han brukte tidligere plain CSS, senere SASS, og til slutt styled-components for styling av React komponenter.",
+                "en": "He previously used plain CSS, later SASS, and finally styled-components for styling React components."
+              },
+              {
+                "no": "For mer komplekse animasjoner brukte han Framer motion.",
+                "en": "For more complex animations, he used Framer Motion."
+              },
+              {
+                "no": "Kartfunksjoner ble løst med Google Maps eller OpenLayers der det var relevant.",
+                "en": "Map functionality was solved with Google Maps or OpenLayers where relevant."
+              },
+              {
+                "no": "Han sørget for responsive og universelt utformede løsninger, deployerte på Vercel for rask utrulling og enkel skalering, og hadde ansvar for drift og mindre forbedringer etter lansering.",
+                "en": "He ensured responsive and universally designed solutions, deployed on Vercel for fast rollout and easy scaling, and was responsible for operations and minor improvements after launch."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "Sanity utvikler",
+              "en": "Sanity Developer"
+            },
+            "description": {
+              "no": "Han modellerte innholdet i Sanity slik at kundene kunne publisere selv uten utviklerhjelp.",
+              "en": "He modeled the content in Sanity so that clients could publish themselves without developer help."
+            },
+            "details": [
+              {
+                "no": "Lagde enkle og tydelige skjemaer for sider, tjenester, åpningstider, kontaktinformasjon, galleri og verk.",
+                "en": "Created simple and clear schemas for pages, services, opening hours, contact information, gallery, and works."
+              },
+              {
+                "no": "Satte opp felt for SEO tittel og metabeskrivelse, bilde med alt tekst og kategorier der det var nyttig.",
+                "en": "Set up fields for SEO title and meta description, image with alt text, and categories where useful."
+              },
+              {
+                "no": "La inn validering på påkrevde felter og beskrivelser, og organiserte Studio med fornuftige lister og forhåndsvisninger.",
+                "en": "Added validation on required fields and descriptions, and organized Studio with sensible lists and previews."
+              },
+              {
+                "no": "Hentet data i frontend med Sanity klient og enkle GROQ spørringer som ga akkurat de feltene som trengtes.",
+                "en": "Fetched data in frontend with Sanity client and simple GROQ queries that returned exactly the fields needed."
+              },
+              {
+                "no": "Holdt en kort opplæring for kunden og laget en liten bruksveiledning med skjermbilder.",
+                "en": "Held a brief training for the client and created a small user guide with screenshots."
+              }
+            ]
+          },
+          {
+            "title": {
+              "no": "SEO",
+              "en": "SEO"
+            },
+            "description": {
+              "no": "Satte opp Google Analytics og grunnleggende SEO med titler, metabeskrivelser og strukturert innhold som matcher faktiske søk.",
+              "en": "Set up Google Analytics and basic SEO with titles, meta descriptions, and structured content that matches actual searches."
+            },
+            "details": [
+              {
+                "no": "Fulgte opp trafikk og enkle konverteringsmål.",
+                "en": "Followed up on traffic and simple conversion goals."
+              },
+              {
+                "no": "Dette ga bedre synlighet i organisk søk og et tydelig fortrinn mot lokale konkurrenter.",
+                "en": "This resulted in better visibility in organic search and a clear advantage over local competitors."
+              }
+            ]
+          }
+        ],
+        "technology": [
+          "Vercel",
+          "Sanity",
+          "Contentful",
+          "TypeScript",
+          "React.js",
+          "React Hooks",
+          "React Router",
+          "CSS",
+          "HTML",
+          "Google Analytics",
+          "Google AdWords",
+          "Figma",
+          "JavaScript",
+          "Material UI",
+          "Bootstrap",
+          "SEO",
+          "GitHub",
+          "SASS",
+          "Vue.js",
+          "PHP",
+          "Framer Motion",
+          "OpenLayers",
+          "Google Maps"
+        ]
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Head Energy",
+        "role": {
+          "no": "Konsulent & AI spesialist",
+          "en": "Consultant & AI Specialist"
+        },
+        "period": "06.2025 - d.d.",
+        "description": {
+          "no": "Hos Head Energy har Arian hatt sentrale roller som UX-designer og frontend-leder i prosjekter som kombinerer kunstig intelligens og LLM-er for å effektivisere interne arbeidsprosesser. Han har designet intuitive brukeropplevelser som gjør avansert teknologi tilgjengelig for ikke-tekniske brukere, samtidig som han har ledet frontendutviklingen med moderne rammeverk. I prosjektene har han jobbet med LangChain for å orkestrere LLM-modeller og n8n for automatisering og integrasjon mot ulike interne og eksterne tjenester, noe som har gitt konkrete tidsbesparelser og forbedret beslutningsstøtte i selskapet.",
+          "en": "At Head Energy, Arian has had central roles as UX designer and frontend lead in projects combining artificial intelligence and LLMs to streamline internal work processes. He has designed intuitive user experiences that make advanced technology accessible to non-technical users, while leading frontend development with modern frameworks. In the projects, he has worked with LangChain to orchestrate LLM models and n8n for automation and integration with various internal and external services, resulting in concrete time savings and improved decision support in the company."
+        }
+      },
+      {
+        "company": "Sopra Steria",
+        "role": {
+          "no": "Senior konsulent",
+          "en": "Senior Consultant"
+        },
+        "period": "09.2022 - 05.2025",
+        "description": {
+          "no": "Som senior engineer, har Arian hatt en rekke sentrale roller i ulike innovasjonsprosjekter. Han har spilt en nøkkelrolle i å hjelpe en oppstartbedrift ved navn Biodrone med å utvikle en webapplikasjon fra idé til ferdig produkt, som ble brukt for å tiltrekke investorer. Han har også modernisert arbeids- og kommunikasjonsflyten i større selskaper som Equinor. Arian tar stadig på seg større ansvar, inkludert teknologivalg, strategi og innovasjon i de prosjektene som han er en del av, hovedsakelig med sin kompetanse interaksjonsdesign og moderne front-end teknologier som React og Typescript.",
+          "en": "As a senior engineer, Arian has had several central roles in various innovation projects. He played a key role in helping a startup called Biodrone develop a web application from idea to finished product, which was used to attract investors. He has also modernized the work and communication flow in larger companies such as Equinor. Arian continuously takes on greater responsibility, including technology selection, strategy, and innovation in the projects he is part of, primarily with his expertise in interaction design and modern frontend technologies such as React and TypeScript."
+        }
+      },
+      {
+        "company": "Accenture",
+        "role": {
+          "no": "Konsulent",
+          "en": "Consultant"
+        },
+        "period": "08.2021 - 08.2022",
+        "description": {
+          "no": "Under stillingen har Arian jobbet med Quality Assurance og webutvikling for Google. I utviklerrollen var Arian involvert i etableringen av en webportal hvor han bidro med teknologivalg, prototype-design og usability testing. Etter etableringen ble webportalen integrert i Googles systemer og brukes nå globalt av flere leverandører til å bestille hardware for testing fra Googles hovedkvarter.",
+          "en": "In this position, Arian worked with Quality Assurance and web development for Google. In the developer role, Arian was involved in establishing a web portal where he contributed with technology selection, prototype design, and usability testing. After establishment, the web portal was integrated into Google's systems and is now used globally by multiple vendors to order hardware for testing from Google's headquarters."
+        }
+      },
+      {
+        "company": "Universitetet i Bergen",
+        "role": {
+          "no": "Seminarleder",
+          "en": "Seminar Leader"
+        },
+        "period": "09.2020 - 05.2021",
+        "description": {
+          "no": "I to påfølgende semestre var Arian ansatt under en seminarlederstilling. Han ledet seks seminarer innen human-computer-interaksjon (HCI) og Interaksjonsdesign & prototyping. Hvert seminar besto av 15-20 studenter. Arians rolle var å veilede studentene i å oppdage brukerens behov, finne potensielle digitale løsninger, utvikle prototyper, i tillegg til testing og evaluering av prototypene.",
+          "en": "For two consecutive semesters, Arian was employed as a seminar leader. He led six seminars in human-computer interaction (HCI) and Interaction Design & Prototyping. Each seminar consisted of 15-20 students. Arian's role was to guide students in discovering user needs, finding potential digital solutions, developing prototypes, as well as testing and evaluating the prototypes."
+        }
+      },
+      {
+        "company": "Garshi Consulting",
+        "role": {
+          "no": "Konsulent",
+          "en": "Consultant"
+        },
+        "period": "04.2019 - 09.2020",
+        "description": {
+          "no": "Gjennom flere oppdrag har Arian drevet kundekonsultasjon, design, utvikling og testing av en rekke nettsider. For front-end har denne utviklingen vært i form av en gradvis overgang fra tradisjonell HTML, CSS og Javascript stack til React. Når det gjelder back-end har Arian både utviklet komplette løsninger ved bruk av PHP og SQL databaser i tillegg til CMS løsninger som Headless Wordpress, Contentful og Strapi. Nettsidene har blitt servert på Hostinger og Google Cloud Platform.",
+          "en": "Through multiple assignments, Arian has conducted client consultation, design, development, and testing of numerous websites. For frontend, this development has been in the form of a gradual transition from traditional HTML, CSS, and JavaScript stack to React. Regarding backend, Arian has both developed complete solutions using PHP and SQL databases as well as CMS solutions such as Headless WordPress, Contentful, and Strapi. The websites have been served on Hostinger and Google Cloud Platform."
+        }
+      },
+      {
+        "company": "Studvest",
+        "role": {
+          "no": "Webutvikler",
+          "en": "Web Developer"
+        },
+        "period": "01.2019 - 12.2019",
+        "description": {
+          "no": "Som ansatt i Studvest, var Arian ansvarlig for rekruttering og ledelse av et utviklerteam. Hans ansvar var å tildele oppgaver til og lede teamet under utviklingen av en interaktiv utelivsguide. I tillegg jobbet han selvstendig med mindre prosjekter som utvikling av et nyhetsbrevsystem og en interaktiv julekalender.",
+          "en": "As an employee at Studvest, Arian was responsible for recruiting and leading a development team. His responsibility was to assign tasks to and lead the team during development of an interactive nightlife guide. Additionally, he worked independently on smaller projects such as development of a newsletter system and an interactive advent calendar."
+        }
+      }
+    ]
+  }
+}
