@@ -7,7 +7,7 @@
 import {getCliClient} from 'sanity/cli'
 import cvData from '../full_cv.json'
 
-const client = getCliClient({apiVersion: '2024-01-01'})
+const client = getCliClient({apiVersion: '2025-01-01'})
 
 // Type definitions for the JSON structure
 interface LocalizedString {
