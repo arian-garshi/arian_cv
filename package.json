@@ -10,7 +10,8 @@
     "build": "sanity build",
     "deploy": "sanity deploy",
     "deploy-graphql": "sanity graphql deploy",
-    "migrate": "sanity exec scripts/migrate-cv.ts --with-user-token"
+    "migrate": "sanity exec scripts/migrate-cv.ts --with-user-token",
+    "migrate:freelance": "sanity exec scripts/migrate-freelance.ts --with-user-token"
   },
   "keywords": [
     "sanity"

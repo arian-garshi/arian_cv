@@ -54,7 +54,8 @@ const cv = await client.fetch(`{
   "certifications": *[_type == "certification"] | order(order asc),
   "education": *[_type == "education"] | order(order asc),
   "projects": *[_type == "project"] | order(order asc),
-  "workExperience": *[_type == "workExperience"] | order(order asc)
+  "workExperience": *[_type == "workExperience"] | order(order asc),
+  "freelance": *[_type == "freelance"][0]
 }`)
 ```
 
@@ -75,6 +76,9 @@ const projects = await client.fetch(`*[_type == "project"] | order(order asc)`)
 
 // Work Experience
 const work = await client.fetch(`*[_type == "workExperience"] | order(order asc)`)
+
+// Freelance (intro + client projects)
+const freelance = await client.fetch(`*[_type == "freelance"][0]`)
 ```
 
 ### 4. Data Structure
@@ -91,6 +95,11 @@ projects[0].roles[0].title.en      // "Frontend Developer"
 projects[0].roles[0].description.en // Role description
 projects[0].roles[0].details        // Array of {no, en} bullet points
 projects[0].technology              // ["React", "TypeScript", ...]
+
+// Freelance has intro paragraphs + client projects
+freelance.introduction[0].en        // Intro paragraph text
+freelance.clientProjects[0].clientName // "Fasteland Consult"
+freelance.clientProjects[0].url     // "https://fastelandconsult.no"
 ```
 
 ### 5. TypeScript Types
@@ -160,12 +169,29 @@ interface WorkExperience {
   order: number
 }
 
+interface FreelanceClientProject {
+  clientName: string
+  projectType: LocalizedString
+  subtitle: LocalizedString
+  description: LocalizedString
+  url: string | null
+}
+
+interface Freelance {
+  _id: string
+  _type: 'freelance'
+  title: LocalizedString
+  introduction: LocalizedString[]
+  clientProjects: FreelanceClientProject[]
+}
+
 interface CV {
   person: Person
   certifications: Certification[]
   education: Education[]
   projects: Project[]
   workExperience: WorkExperience[]
+  freelance: Freelance
 }
 ```
 
@@ -187,7 +213,8 @@ async function getCV() {
     "certifications": *[_type == "certification"] | order(order asc),
     "education": *[_type == "education"] | order(order asc),
     "projects": *[_type == "project"] | order(order asc),
-    "workExperience": *[_type == "workExperience"] | order(order asc)
+    "workExperience": *[_type == "workExperience"] | order(order asc),
+    "freelance": *[_type == "freelance"][0]
   }`)
 
   return cv
@@ -198,6 +225,7 @@ const cv = await getCV()
 console.log(cv.person.name) // "Arian Garshi"
 console.log(cv.person.title.en) // "Senior Consultant"
 console.log(cv.projects.length) // 10
+console.log(cv.freelance.clientProjects.length) // 5
 ```
 
 ---
